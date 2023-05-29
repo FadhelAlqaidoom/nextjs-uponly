@@ -39,7 +39,7 @@ export default function Home() {
 
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               Private Sale: 10% of TOTAL supply 8 ETH. <br></br>
-              Public Sale: 18% of TOTAL supply, 16 ETH. <br></br>
+              Public Sale: 9% of TOTAL supply, 8 ETH. <br></br>
               Team Tokens: 10% of TOTAL supply, Locked for 1 Week<br></br>
               Tokens for LP: 62% of TOTAL supply,
             </p>

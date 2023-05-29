@@ -57,12 +57,12 @@ export default function Home() {
               </a>
               <a
                 className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                href="#">
+                href="https://dexscreener.com/ethereum/0x9e678338d7553f3cc6ff2482248f5cf4f01527d6">
                 Dexscreener
               </a>
               <a
                 className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                href="#">
+                href="https://www.dextools.io/app/en/ether/pair-explorer/0x9e678338d7553f3cc6ff2482248f5cf4f01527d6">
                 DexTools
               </a>
             </div>
